@@ -1,6 +1,6 @@
 # Portfolio Projet : Potluck Manager - Backend
 
-Un service web qui agit comme passerelle backend dans le project potluck.
+Un service web qui agit comme passerelle backend dans le project potluck.  
 Visiter la page de documentation API (voir lien plus bas)
 
 ### Résumé des ressources et actions possibles
