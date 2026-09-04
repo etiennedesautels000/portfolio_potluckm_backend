@@ -1,6 +1,6 @@
 
 # general modules
-from flask import jsonify, request
+from flask import jsonify, request, redirect
 from datetime import datetime
 from werkzeug.exceptions import BadRequest, MethodNotAllowed
 import unicodedata
@@ -135,7 +135,7 @@ def validate_contribution(record: dict) -> bool:
 @app.route('/')
 @app.route('/index')
 def index():
-    return "swagger"
+    return redirect('/apidocs')
 
 def index_OLD():
     return '''
