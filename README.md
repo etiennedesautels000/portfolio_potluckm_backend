@@ -1,4 +1,4 @@
-# Portfolio Projet : Potluck Manager - Backend
+# (Portfolio) Projet personnel : Potluck Manager - Backend
 
 Un service web qui agit comme passerelle backend dans le project potluck.  
 Visiter la page de documentation API (voir lien plus bas)
